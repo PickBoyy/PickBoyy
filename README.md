@@ -20,3 +20,7 @@ Qualquer ajuda é bem vinda😊
   <img align="center" alt="Pick-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Pick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
+  <hr>
+  Caso queira me mandar msg <br>
+  - @breno_malheiros07
+  <hr>
