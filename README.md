@@ -4,7 +4,7 @@ Qualquer ajuda é bem vinda😊
 <hr>
 - Estudo programação à 1 ano 🐱‍🚀 <br>
 - Tenho conhecimento em HTML 5, CSS 3, Bootstrap, Sass, Styled-Componet, JavaScript, TypeScript, React, ReactNative,  <br>
-- Voltado pra área Front-End 
+- Voltado pra área Front-End Mobile
 <hr>
 <div align="center">
   <a href="https://github.com/PickBoyy">
