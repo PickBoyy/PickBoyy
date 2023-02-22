@@ -2,9 +2,9 @@
 Tenho 19 anos <br>
 Qualquer ajuda é bem vinda😊
 <hr>
-- Estudo programação à 5 meses🐱‍🚀 <br>
-- Tenho breve conhecimento em JS e TS <br>
-- Também tenho conhecimento em Front-end
+- Estudo programação à 1 ano 🐱‍🚀 <br>
+- Tenho conhecimento em HTML 5, CSS 3, Bootstrap, Sass, Styled-Componet, JavaScript, TypeScript, React, ReactNative,  <br>
+- Voltado pra área Front-End 
 <hr>
 <div align="center">
   <a href="https://github.com/PickBoyy">
@@ -22,6 +22,9 @@ Qualquer ajuda é bem vinda😊
   <img align="center" alt="Pick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   <hr>
-  Caso queira me mandar msg <br>
-  - @breno_malheiros07
+  Para entrar em contato:<br>
+  - Instagra: @breno_malheiros07
+  - Email: brenovirgilio14@gmail.com
+  - WhatsApp: (77)9 9969-7149
+  - Linkedin: https://www.linkedin.com/in/breno-malheiros-348a1024a/
   <hr>
