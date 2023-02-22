@@ -23,8 +23,8 @@ Qualquer ajuda é bem vinda😊
 </div>
   <hr>
   Para entrar em contato:<br>
-  - Instagra: @breno_malheiros07
-  - Email: brenovirgilio14@gmail.com
-  - WhatsApp: (77)9 9969-7149
+  - Instagra: @breno_malheiros07<br>
+  - Email: brenovirgilio14@gmail.com<br>
+  - WhatsApp: (77)9 9969-7149<br>
   - Linkedin: https://www.linkedin.com/in/breno-malheiros-348a1024a/
   <hr>
